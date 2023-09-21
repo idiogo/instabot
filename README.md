@@ -5,7 +5,7 @@ Post to an Instagram account a GPT generated text above a DALL-E generated pictu
 
 ## How
 
-1. `npm install` the dependencies of package.json
+1. `npm install` the dependencies of package.json.
 
 2. Update this code in app.js with your OpenAI API Key, Instagram account and password.
 
