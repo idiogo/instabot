@@ -23,3 +23,6 @@ const envVars = {
 const chatGPTPrompt = "Crie um texto desmotivacional com no máximo 100 caracteres em tom de comédia. Exemplo 1: 'Não faça hoje o que você pode fazer amanhã'. Exemplo 2: 'Não deixe dizerem que você não consegue. Diga você mesmo: Eu não consigo'. ";
 const DALLePrompt = "landscape to use as motivational background for a text that i'll put above";
 ```
+
+## Why
+Why not?
